@@ -1,6 +1,10 @@
 # esp32-system-monitor
 Simple ESP32 project and tutorial for using an epaper display as a tiny system monitor
 
+![20260103_163943](https://github.com/user-attachments/assets/c6780582-9e2b-4ee7-ae7f-fbb6a8403bcf)
+![20260103_163941](https://github.com/user-attachments/assets/7cc3209e-dd9f-4e3a-9f5f-d54b46e2de5d)
+
+
 **COMPATIBLE WITH LINUX (BASH)**
 I've developed the script for sending data over serial in bash. Use your own implementation for Windows shell.
 
