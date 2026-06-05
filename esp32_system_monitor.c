@@ -73,7 +73,7 @@ loop() {
   display.firstPage();
   do {
     display.fillScreen(GxEPD_WHITE);
-    display.drawBitmap(0, 0, bitmap + (frame * 5000), 200, 200, GxEPD_BLACK);
+    display.drawBitmap(0, 0, bitmap200x200 + (frame * 5000), 200, 200, GxEPD_BLACK);
 
     if (hasSerialData == 0x01) {
       display.setFont(&FreeMonoBold24pt7b);
